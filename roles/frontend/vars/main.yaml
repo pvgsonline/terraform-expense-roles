@@ -1,0 +1,5 @@
+backend_host: backend.pvgs.online
+mysql_root_password: ExpenseApp@1
+login_host: mysql.pvgs.online
+app_location: /usr/share/nginx/html
+component: frontend
