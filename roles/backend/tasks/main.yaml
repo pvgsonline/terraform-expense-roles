@@ -38,8 +38,8 @@
 - name: install the pip dependencies
   ansible.builtin.pip:
     name: 
-    - PyMySQL
-    - cryptography
+      - PyMySQL
+      - cryptography
     executable: pip3.9
 
 - name: import of sql data
